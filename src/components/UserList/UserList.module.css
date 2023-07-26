@@ -1,0 +1,32 @@
+.table {
+    width: 600px;
+    border-radius: 10px;
+    border-collapse: separate;
+    border-spacing: 3px;
+}
+.tdata {
+    background: rgba(255, 255, 255, .3);
+    height: 30px;
+    text-align: center;
+}
+.link {
+    font-size: 17px;
+    color: rgb(74, 23, 122);
+}
+
+.link:hover {
+    color: darkblue;
+}
+
+.delBtn {
+    color: #ffffff;
+    width: 90px;
+    background-color: crimson;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.delBtn:hover {
+    background-color: darkred;
+}

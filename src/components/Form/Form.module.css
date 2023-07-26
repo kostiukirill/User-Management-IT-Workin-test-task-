@@ -1,0 +1,30 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    width: 600px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.input {
+    background: rgba(255, 255, 255, .1);
+    border: 1px solid #ffffff;
+    height: 30px;
+    width: 400px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding-left: 15px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
